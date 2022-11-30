@@ -8,15 +8,8 @@
 - 💞️ I’m looking to collaborate on ... anything TBH. I just want to build up my knowledge on coding. 
 
 
-    )                      (                                  
- ( /(                      )\ )      )           )        (   
- )\()) (   (       )  (   (()/(   ( /(     )  ( /(     )  )\  
-((_)\  )\  )(   ( /(  )\   /(_))  )\()) ( /(  )\()) ( /( ((_) 
- _((_)((_)(()\  )(_))((_) (_))_  ((_)\  )(_))((_)\  )(_)) _   
-| \| | (_) ((_)((_)_   !   |   \ | |(_)((_)_ | |(_)((_)_ | |  
-| .` | | || '_|/ _` | | |  | |) || ' \ / _` || / / / _` || |  
-|_|\_| |_||_|  \__,_|_/ |  |___/ |_||_|\__,_||_\_\ \__,_||_|  
-                    |__/                                      
+  
+                                                 
 
 <!---
 Niraj-Dhakall/Niraj-Dhakall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
