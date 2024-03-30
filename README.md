@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Niraj-Dhakall
-- 👀 I’m interested in ... Coding
-
-
-- 🌱 I’m currently learning ... CS @ UMBC
-
-
-- 💞️ I’m looking to collaborate on ... anything TBH. I just want to build up my knowledge on coding. 
-
+Looking for internships to expand my knowledge and explore new topic that I enjoy.
 
   
                                                  
