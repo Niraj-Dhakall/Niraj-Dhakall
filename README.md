@@ -72,19 +72,9 @@ I'm a **Computer Science student** at the University of Maryland, Baltimore Coun
 
 ---
 
-### 🎬 [CineScope - iOS Movie App](https://github.com/nirajdhakal/cinescope)
-**Native iOS Application | Swift + UIKit**
-- 📱 Feature-rich movie discovery app with **4.8/5 user rating**
-- 🎨 Intuitive UI following Apple Human Interface Guidelines
-- 🔍 Advanced search, favorites, and personalized watchlists
-- 📊 Integration with The Movie Database (TMDb) API
-- 🧪 Comprehensive test coverage with XCTest
-
-**Tech Stack:** Swift, UIKit, Core Data, TMDb API, Xcode
-
 ---
 
-### 🤖 [AI Marketing Analytics Platform](https://github.com/nirajdhakal/ai-marketing-platform)
+### 🤖 [AI Marketing Analytics Platform](https://github.com/nirajdhakal/Project_Monopoly)
 **Enterprise AI Tool | Python + Go + LLMs**
 - 📈 Processes **100,000+ social media data points** daily
 - 🎯 **25% improvement** in campaign engagement rates
@@ -96,15 +86,6 @@ I'm a **Computer Science student** at the University of Maryland, Baltimore Coun
 
 ---
 
-### 🔍 [IoT Privacy Policy Analyzer](https://github.com/nirajdhakal/privacy-analyzer)
-**Research Project | Python + NLP + Machine Learning**
-- 📋 Analyzed **200+ IoT privacy policies** for compliance gaps
-- 🧠 **BERT and GPT-based models** for knowledge graph validation
-- 📊 **35% improvement** in data accuracy over manual processing
-- 🔄 Automated NLP pipelines reducing review time by **60%**
-- 📚 Contributing to research papers for top-tier conferences
-
-**Tech Stack:** Python, BERT, GPT Models, NLP, Knowledge Graphs
 
 ## 📊 GitHub Statistics
 
