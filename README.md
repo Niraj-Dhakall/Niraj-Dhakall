@@ -58,33 +58,6 @@ I'm a **Computer Science student** at the University of Maryland, Baltimore Coun
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-## 🎯 Featured Projects
-
-### 🏪 [Pantry Tracker](https://github.com/nirajdhakal/pantry-tracker)
-**Full-Stack Web Application | React + TypeScript + Firebase**
-- 📱 Comprehensive pantry management system with **100+ active users**
-- 🤖 AI-powered recipe suggestions using **OpenAI GPT-4 API**
-- ⚡ **95+ Lighthouse performance score** with Next.js optimization
-- 🔐 Secure authentication and real-time data synchronization
-- 🎨 Modern UI with Tailwind CSS and Material-UI
-
-**Tech Stack:** React, TypeScript, Next.js, Firebase, Tailwind CSS, OpenAI API
-
----
-
----
-
-### 🤖 [AI Marketing Analytics Platform](https://github.com/nirajdhakal/Project_Monopoly)
-**Enterprise AI Tool | Python + Go + LLMs**
-- 📈 Processes **100,000+ social media data points** daily
-- 🎯 **25% improvement** in campaign engagement rates
-- ⚡ **40% faster** API response times with optimized backend
-- 🔒 Secure OAuth 2.0 multi-tenant authentication
-- 🔄 Robust ETL pipelines processing **50GB+ weekly data**
-
-**Tech Stack:** Python, Go, Flask, PostgreSQL, OAuth 2.0, LLMs
-
----
 
 
 ## 📊 GitHub Statistics
