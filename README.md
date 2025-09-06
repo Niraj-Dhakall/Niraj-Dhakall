@@ -123,7 +123,7 @@ I'm a **Computer Science student** at the University of Maryland, Baltimore Coun
 
 ## 📈 Activity Graph
 
-[![Niraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirajdhakal&theme=react-dark&hide_border=true)](https://github.com/nirajdhakal)
+[![Niraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Niraj-Dhakall&theme=react-dark&hide_border=true)](https://github.com/nirajdhakal)
 
 ## 🤝 Let's Connect!
 
