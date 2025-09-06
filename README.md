@@ -91,11 +91,11 @@ I'm a **Computer Science student** at the University of Maryland, Baltimore Coun
 
 <div align="center">
   
-![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajdhakal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niraj-Dhakall&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajdhakal&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Dhakall&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajdhakal&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niraj-Dhakall&theme=radical&hide_border=true)
 
 </div>
 
@@ -112,10 +112,6 @@ I'm a **Computer Science student** at the University of Maryland, Baltimore Coun
 - GPA: 3.618 | Dean's List: Fall 2023, Spring 2024
 - Expected Graduation: May 2026
 
-### 🏆 Certifications & Awards
-- **AWS Certified Cloud Practitioner** (2024)
-- **UMBC Outstanding Student Achievement Award** (Spring 2024)
-- **Hackathon Winner - Best Use of AI** at TechCrunch Disrupt Baltimore (2024)
 
 ## 🌱 Current Focus
 
@@ -139,7 +135,6 @@ I'm always interested in discussing technology, collaborating on projects, or ex
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/nirajdhakal26)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge)](mailto:nirajd1@umbc.edu)
 
-**⭐ Star my repositories if you find them interesting!**
 
 </div>
 
