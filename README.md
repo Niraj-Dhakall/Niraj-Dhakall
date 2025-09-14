@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Niraj Dhakal
+#Niraj Dhakal
 
 <div align="center">
   
@@ -8,17 +8,17 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a **Computer Science student** at the University of Maryland, Baltimore County, passionate about building scalable applications and exploring the intersection of AI and software development. I love turning complex problems into elegant solutions and have experience in full-stack development, research, and teaching.
 
-- 🎓 **CS Student** at UMBC (GPA: 3.618, Dean's List recipient)
-- 💼 **Currently:** Student Intern at Dogwood Gaming
-- 🔬 **Research:** AI/ML applications in privacy policy analysis
-- 🎯 **Focus:** Full-stack development, AI integration, and scalable systems
-- 📍 **Location:** Baltimore, MD
+- **CS Student** at UMBC (GPA: 3.618, Dean's List recipient)
+- **Currently:** Student Intern at Dogwood Gaming
+- **Research:** AI/ML applications in privacy policy analysis
+- **Focus:** Full-stack development, AI integration, and scalable systems
+- **Location:** Baltimore, MD
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ I'm a **Computer Science student** at the University of Maryland, Baltimore Coun
 
 
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   
@@ -72,35 +72,34 @@ I'm a **Computer Science student** at the University of Maryland, Baltimore Coun
 
 </div>
 
-## 🎓 Experience & Education
+## Experience & Education
 
-### 💼 Professional Experience
+### Professional Experience
 - **Student Intern** @ Dogwood Gaming (Spring 2025)
 - **Research Assistant** @ UMBC DAMS Lab (Oct 2024 - May 2025)
 - **Teaching Fellow** @ UMBC (Jan 2024 - Jun 2024)
 
-### 🏫 Education
+### Education
 **University of Maryland, Baltimore County**
 - Bachelor of Science in Computer Science
 - GPA: 3.618 | Dean's List: Fall 2023, Spring 2024
 - Expected Graduation: May 2026
 
 
-## 🌱 Current Focus
+## Current Focus
 
-- 🔭 Working on advanced AI applications for marketing analytics
-- 🌱 Learning cloud architecture and distributed systems
-- 👯 Looking to collaborate on open-source projects
-- 🎯 Seeking software engineering internships for Summer 2025
-- 💬 Ask me about full-stack development, AI/ML, or iOS development
+-  Working on advanced AI applications for marketing analytics
+- Learning cloud architecture and distributed systems
+- Looking to collaborate on open-source projects
+-  Seeking software engineering internships for Summer 2025
+
 
 ## 📈 Activity Graph
 
 [![Niraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Niraj-Dhakall&theme=react-dark&hide_border=true)](https://github.com/nirajdhakal)
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
-I'm always interested in discussing technology, collaborating on projects, or exploring new opportunities. Feel free to reach out!
 
 <div align="center">
 
@@ -113,6 +112,3 @@ I'm always interested in discussing technology, collaborating on projects, or ex
 
 ---
 
-<div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
