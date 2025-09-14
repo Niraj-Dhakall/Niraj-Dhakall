@@ -18,7 +18,7 @@ I'm a **Computer Science student** at the University of Maryland, Baltimore Coun
 - **Focus:** Full-stack development, AI integration, and scalable systems
 - **Location:** Baltimore, MD
 
-## 🛠Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
