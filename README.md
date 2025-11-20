@@ -44,7 +44,6 @@
 ### Education
 **University of Maryland, Baltimore County**
 - Bachelor of Science in Computer Science
-- GPA: 3.618 | Dean's List: Fall 2023, Spring 2024
 - Expected Graduation: May 2026
 
 
